@@ -140,7 +140,6 @@ Languages and Tools:
     </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
-https://www.figma.com/design/ax7dwS4MjagcCcOzaQI4dc/Foodmart?node-id=109-1555&p=f&t=0Aq9LBIMqD2HIm96-0
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
